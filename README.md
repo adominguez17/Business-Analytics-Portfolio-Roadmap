@@ -19,7 +19,7 @@ This roadmap outlines the projects planned for my Business Analytics portfolio. 
 
 ### ☑️ Completed
 
-- [ ] BA-001 – Workforce Planning & Scheduling System
+- ☑️ BA-001 – Workforce Planning & Scheduling System
 - [ ] BA-002 – Enterprise Records Management System
 - [ ] BA-003 – Executive KPI Dashboard
 - [ ] BA-004 – Grievance Management System
