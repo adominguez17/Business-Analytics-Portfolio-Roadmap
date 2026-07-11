@@ -4,7 +4,7 @@ This roadmap outlines the projects planned for my Business Analytics portfolio. 
 | Status | ID | Project | Primary Competency |
 |:------:|:---|----------|--------------------|
 | ☑️ | BA-001 | Workforce Planning & Scheduling System | Business Analysis |
-| ☐ | BA-002 | Enterprise Records Management System | Operations Management |
+| ☐ | BA-002 | Enterprise Records Management & Compliance System | Operations Management |
 | ☐ | BA-003 | Executive KPI Dashboard | Power BI & Executive Reporting |
 | ☐ | BA-004 | Grievance Management System | Process Improvement |
 | ☐ | BA-005 | Mail Tracking & Chain of Custody | Data Management |
@@ -20,7 +20,7 @@ This roadmap outlines the projects planned for my Business Analytics portfolio. 
 ### ☑️ Completed
 
 - ☑️ BA-001 – Workforce Planning & Scheduling System
-- [ ] BA-002 – Enterprise Records Management System
+- [ ] BA-002 – Enterprise Records Management & Compliance System
 - [ ] BA-003 – Executive KPI Dashboard
 - [ ] BA-004 – Grievance Management System
 - [ ] BA-005 – Mail Tracking & Chain of Custody
@@ -52,7 +52,7 @@ This portfolio demonstrates experience across the following disciplines:
 ## Production Systems
 
 - [ ] BA-001 Workforce Planning & Scheduling System
-- [ ] BA-002 Enterprise Records Management System
+- [ ] BA-002 Enterprise Records Management & Compliance System
 - [ ] BA-003 Executive KPI Dashboard
 - [ ] BA-004 Grievance Management System
 - [ ] BA-005 Mail Tracking & Chain of Custody
