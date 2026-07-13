@@ -19,8 +19,8 @@ This roadmap outlines the projects planned for my Business Analytics portfolio. 
 
 ### ☑️ Completed
 
-- ☑️ BA-001 – Workforce Planning & Scheduling System
-- ☑️ BA-002 – Enterprise Records Management & Compliance System
+☑️ BA-001 – Workforce Planning & Scheduling System
+☑️ BA-002 – Enterprise Records Management & Compliance System
 - [ ] BA-003 – Executive Operations Dashboard (Power BI)
 - [ ] BA-004 – Grievance Management System
 - [ ] BA-005 – Mail Tracking & Chain of Custody
